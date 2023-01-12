@@ -1,1 +1,1 @@
-# vangogh_tg_style_transfer
+# Telegram Bot for Style Transfer based on Van Gogh paintings
