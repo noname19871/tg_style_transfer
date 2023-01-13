@@ -1,1 +1,1 @@
-# Telegram Bot for Style Transfer based on Van Gogh's paintings
+# VGG-based Telegram Bot for Neural Style Transfer
