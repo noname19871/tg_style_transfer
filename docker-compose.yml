@@ -1,0 +1,12 @@
+version: "3"
+services:
+  web:
+    image: tg-style-transfer
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - REDIS_ENDPOINT=redis
+      - REDIS_PORT=6379
+  redis:
+    image: "redis:alpine"
