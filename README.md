@@ -26,10 +26,10 @@ pip install torch torchvision
 
 | Content | Style | Result |
 |---------|-------|--------|
-| <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/photos/dicaprio.jpeg?raw=true" width="128" height="128"> | <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/styles/vangogh.jpeg?raw=true" width="128" height="128">   |   |
-| <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/photos/dancing.jpeg?raw=true" width="128" height="128"> | <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/styles/vangogh.jpeg?raw=true" width="128" height="128">   |   |
-| <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/photos/dicaprio.jpeg?raw=true" width="128" height="128"> | <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/styles/picasso.jpeg?raw=true" width="128" height="128">   |   |
-| <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/photos/dancing.jpeg?raw=true" width="128" height="128"> | <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/styles/picasso.jpeg?raw=true" width="128" height="128">   |   |
+| <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/photos/dicaprio.jpeg?raw=true" width="128" height="128"> | <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/styles/vangogh.jpeg?raw=true" width="128" height="128">   | <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/results/dicaprio_vangogh.jpeg?raw=true" width="128" height="128">  |
+| <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/photos/dancing.jpeg?raw=true" width="128" height="128"> | <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/styles/vangogh.jpeg?raw=true" width="128" height="128">   | <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/results/dancing_vangogh.jpeg?raw=true" width="128" height="128">  |
+| <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/photos/dicaprio.jpeg?raw=true" width="128" height="128"> | <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/styles/picasso.jpeg?raw=true" width="128" height="128">   |  <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/results/dicaprio_picasso.jpeg?raw=true" width="128" height="128"> |
+| <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/photos/dancing.jpeg?raw=true" width="128" height="128"> | <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/styles/picasso.jpeg?raw=true" width="128" height="128">   |  <img src="https://github.com/noname19871/tg_style_transfer/blob/main/examples/results/dancing_picasso.jpeg?raw=true" width="128" height="128"> |
 
 ### Inference time
 
