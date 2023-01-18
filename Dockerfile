@@ -1,6 +1,6 @@
 FROM python:3.10
 
-ENV BOT_API_TOKEN=YOUR_BOT_TOKEN_HERE
+ENV BOT_API_TOKEN=YOUR_API_TOKEN_HERE
 
 WORKDIR /app/tg_style_transfer
 ADD ./requirements.txt /app/tg_style_transfer/requirements.txt
